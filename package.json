@@ -1,0 +1,36 @@
+{
+  "name": "ADT_Finance_Prototype",
+  "version": "1.0.0",
+  "description": "Responsible Use of Public Funds - La saine gestion des fonds publics",
+  "author": "csabourin",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-regular-svg-icons": "^5.12.0",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@nuxtjs/axios": "^5.8.0",
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.1.0",
+    "eslint": "^6.7.2",
+    "jquery": "^3.4.1",
+    "nuxt": "^2.10.2",
+    "nuxt-i18n": "^6.4.1",
+    "simple-scorm-wrapper": "^0.2.1",
+    "vue-i18n": "^8.15.1",
+    "vue-scrollto": "^2.17.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "nodemon": "^1.19.4",
+    "prettier": "^1.19.1"
+  }
+}
